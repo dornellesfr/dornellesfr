@@ -1,4 +1,4 @@
-## Hello there!
+# Hello there!
 
 I'm Fernando, a person who studies web development and loved this area with a few months of fun doing logic challenges. I like to read about programming and a couple of stuf. So I love studying about react, node, mysql and others and I used these technologies in the Trybe course as well as in others on the Internet courses.
 
@@ -30,9 +30,8 @@ Contacts:
 
 Click here to acess my [portfolio](https://google.com) (wait! in creation process...) and here my [curriculum](https://gitconnected.com/dornellesfr/resume)
 
-#
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dornellesfr&hide=contribs,prs)
+## Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dornellesfr&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornellesfr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
