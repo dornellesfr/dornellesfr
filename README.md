@@ -1,8 +1,8 @@
-# Hello there!
+# Olá!
 
-Oiii, me chamo Fernando, estudo desenvolvimento web e logo que comecei a estudar, por conta mesmo, amei a área com apenas desafios de lógica de programação. Eu gosto de ler sobre tecnologia, de estudar sobre react, node, mysql e outras e estas foram usadas no curso da Trybe assim como em outros cursos na internet.
+Me chamo Fernando, estudo desenvolvimento web e logo que comecei a estudar (por conta mesmo), amei a área!. Eu gosto de ler sobre tecnologia, de estudar sobre react, node, mysql e outras e estas foram usadas no curso da Trybe assim como em outros cursos na internet.
 
-I'm Fernando, a person who studies web development, lately I loved this area with a few months of fun doing logic challenges. I like to read about programming and a couple of stuffs also I love studying about react, node, mysql and others these technologies I used in the Trybe course as well as in others on the Internet courses.
+I'm Fernando, a person who studies web development, so I loved this area with a few months of fun doing logic challenges. I like to read about programming and a couple of stuffs also I love studying about react, node, mysql and others. These technologies I used in the Trybe course as well as in others on the Internet courses.
 
 ## Technologies and frameworks
 <div style="display: inline_block"><br>
