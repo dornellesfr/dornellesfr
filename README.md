@@ -25,7 +25,7 @@ I'm Fernando, a person who studies web development, so I loved this area with a 
 ## Contacts:
 <div> 
   <a href="https://instagram.com/dornellesfr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-dornelles-rocha-3b11b921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dornellesfr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5551997463822&text=Ol%C3%A1,%20gostaria%20de%20falar%20com%20voc%C3%AA%20sobre..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
