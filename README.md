@@ -36,5 +36,4 @@ I'm Fernando, a person who studies web development, so I loved this area with a 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dornellesfr&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornellesfr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![baby-yoda](https://media.tenor.com/CW7G6xH2W4YAAAAC/baby-yoda-may-the-force-be-with-you.gif)
