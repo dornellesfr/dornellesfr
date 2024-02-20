@@ -2,7 +2,7 @@
 Hello!
 My name is Fernando and I'm passionate about technology. At first I started to study language at Universidade Federal do Rio Grande do sul, but I really not satisfied with that. Then, I choose to radically change my life, going out of university and studying languages, but of programmming, like Python and JavaScript!
 
-Now I'm working how intership at [@SISPRO](https://www.instagram.com/sispro_software/) using C# and Angular stacks!
+Now I'm working how Jr FrontEnd Developer at [@SIL_SISTEMAS](https://www.instagram.com/silsistemas/) using React and React Native!
 
 And I'm currently studying development at [@UNISINOS](https://www.instagram.com/unisinos/)
 
@@ -12,10 +12,8 @@ Believe that you can and you going to win!
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fernando-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Fernando-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fernando-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fernando-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Fernando-django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img align="center" alt="Fernando-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Fernando-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
