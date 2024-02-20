@@ -2,7 +2,7 @@
 Hello!
 My name is Fernando and I'm passionate about technology. At first I started to study language at Universidade Federal do Rio Grande do sul, but I really not satisfied with that. Then, I choose to radically change my life, going out of university and studying languages, but of programmming, like Python and JavaScript!
 
-Now I'm working how Jr FrontEnd Developer at [@SIL_SISTEMAS](https://www.instagram.com/silsistemas/) using React and React Native!
+Now I'm working how Jr FrontEnd Developer at [@SILSISTEMAS](https://www.instagram.com/silsistemas/) using React and React Native!
 
 And I'm currently studying development at [@UNISINOS](https://www.instagram.com/unisinos/)
 
