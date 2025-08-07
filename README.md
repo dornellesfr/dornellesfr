@@ -4,7 +4,7 @@ My name is Fernando and I'm passionate about technology. At first I started to s
 
 Now I'm working how Jr FrontEnd Developer at [@SILSISTEMAS](https://www.instagram.com/silsistemas/) using React and React Native!
 
-And I'm currently studying development at [@PUCRS](https://online.pucrs.br/pt-br/)
+And I'm currently studying development at [@PUCRS](https://online.pucrs.br/)
 
 Believe that you can and you going to win!
 
